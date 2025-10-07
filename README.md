@@ -7,7 +7,7 @@ GLVision is a high-performance Android application that demonstrates real-time v
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nachiket1234/GLVision/main/assets/glvision-demo.gif" alt="GLVision Demo" width="300"/>
 </p>
------
+
 
 ## Project Background and Prior Work
 
