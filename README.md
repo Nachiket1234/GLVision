@@ -1,6 +1,3 @@
-
-
-
 # GLVision: Real-Time Camera Grayscale Filter
 
 GLVision is a high-performance Android application that demonstrates real-time video processing. The app captures the live camera feed and provides a toggle to apply a grayscale filter, processed efficiently using native C++ with the Android NDK and OpenCV. It also includes an FPS counter to monitor performance.
@@ -11,6 +8,17 @@ GLVision is a high-performance Android application that demonstrates real-time v
   <img src="https://raw.githubusercontent.com/Nachiket1234/GLVision/main/assets/glvision-demo.gif" alt="GLVision Demo" width="300"/>
 </p>
 -----
+
+## Project Background and Prior Work
+
+This project (GLVision) is an improved and stable version of my earlier project OpenCV-Edge-Detector: [OpenCV-Edge-Detector](https://github.com/Nachiket1234/OpenCV-Edge-Detector) However, that **older project had numerous errors and didn't function** reliably—issues included:
+
+- Failed live camera rendering from texture size mismatches.
+- Problems with grayscale shader application not updating in real-time.
+- Potential image corruption due to unhandled YUV padding in conversions.
+
+Those bugs led me to **refactor and create this new repo for a more stable** and performant version that meets the requirements.
+
 
 ## ✨ Features
 
