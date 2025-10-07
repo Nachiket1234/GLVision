@@ -93,7 +93,7 @@ The application follows a simple but effective architecture to achieve real-time
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/GLVision.git
+    git clone https://github.com/Nachiket1234/GLVision.git
     ```
 2.  **Open in Android Studio:**
       * Open Android Studio.
